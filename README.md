@@ -1,0 +1,2 @@
+# djangorest
+drf application
